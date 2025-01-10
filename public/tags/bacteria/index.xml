@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bacteria | Katja Kero&#39;s homepage</title>
+    <link>https://katjakero3.netlify.app/tags/bacteria/</link>
+      <atom:link href="https://katjakero3.netlify.app/tags/bacteria/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bacteria</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://katjakero3.netlify.app/media/icon_hu6809727849340587986.png</url>
+      <title>Bacteria</title>
+      <link>https://katjakero3.netlify.app/tags/bacteria/</link>
+    </image>
+    
+    <item>
+      <title>Optimal sampling and analysis methods for clinical diagnostics of vaginal microbiome</title>
+      <link>https://katjakero3.netlify.app/peer/kero-optimal-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://katjakero3.netlify.app/peer/kero-optimal-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HPV infection and bacterial microbiota in the semen from healthy men</title>
+      <link>https://katjakero3.netlify.app/peer/tuominen-hpv-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://katjakero3.netlify.app/peer/tuominen-hpv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of asymptomatic bacterial vaginosis with persistence of female genital human papillomavirus infection</title>
+      <link>https://katjakero3.netlify.app/peer/kero-association-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://katjakero3.netlify.app/peer/kero-association-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

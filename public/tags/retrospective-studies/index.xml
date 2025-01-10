@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retrospective Studies | Katja Kero&#39;s homepage</title>
+    <link>https://katjakero3.netlify.app/tags/retrospective-studies/</link>
+      <atom:link href="https://katjakero3.netlify.app/tags/retrospective-studies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Retrospective Studies</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://katjakero3.netlify.app/media/icon_hu6809727849340587986.png</url>
+      <title>Retrospective Studies</title>
+      <link>https://katjakero3.netlify.app/tags/retrospective-studies/</link>
+    </image>
+    
+    <item>
+      <title>Usability of two brief questions as a screening tool for domestic violence and effect of #MeToo on prevalence of self-reported violence</title>
+      <link>https://katjakero3.netlify.app/peer/kero-usability-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://katjakero3.netlify.app/peer/kero-usability-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

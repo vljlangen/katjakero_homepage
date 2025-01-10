@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Surveys and Questionnaires | Katja Kero&#39;s homepage</title>
+    <link>https://katjakero3.netlify.app/tags/surveys-and-questionnaires/</link>
+      <atom:link href="https://katjakero3.netlify.app/tags/surveys-and-questionnaires/index.xml" rel="self" type="application/rss+xml" />
+    <description>Surveys and Questionnaires</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://katjakero3.netlify.app/media/icon_hu6809727849340587986.png</url>
+      <title>Surveys and Questionnaires</title>
+      <link>https://katjakero3.netlify.app/tags/surveys-and-questionnaires/</link>
+    </image>
+    
+    <item>
+      <title>Let&#39;s talk about sexuality - A web-based survey of self-reported competence in sexual problems among obstetrician-gynecologists in Finland</title>
+      <link>https://katjakero3.netlify.app/peer/aromaa-lets-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://katjakero3.netlify.app/peer/aromaa-lets-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General practitioners&#39; self-reported competence in the management of sexual health issues - a web-based questionnaire study from Finland</title>
+      <link>https://katjakero3.netlify.app/peer/manninen-general-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://katjakero3.netlify.app/peer/manninen-general-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usability of two brief questions as a screening tool for domestic violence and effect of #MeToo on prevalence of self-reported violence</title>
+      <link>https://katjakero3.netlify.app/peer/kero-usability-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://katjakero3.netlify.app/peer/kero-usability-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genotype-specific concordance of oral and genital human papillomavirus infections among marital couples is low</title>
+      <link>https://katjakero3.netlify.app/peer/kero-genotype-specific-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://katjakero3.netlify.app/peer/kero-genotype-specific-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissociative disorders among psychiatric patients</title>
+      <link>https://katjakero3.netlify.app/peer/lipsanen-dissociative-2004/</link>
+      <pubDate>Sun, 01 Feb 2004 00:00:00 +0000</pubDate>
+      <guid>https://katjakero3.netlify.app/peer/lipsanen-dissociative-2004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

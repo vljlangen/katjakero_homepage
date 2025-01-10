@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blood Pressure | Katja Kero&#39;s homepage</title>
+    <link>https://katjakero3.netlify.app/tags/blood-pressure/</link>
+      <atom:link href="https://katjakero3.netlify.app/tags/blood-pressure/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blood Pressure</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://katjakero3.netlify.app/media/icon_hu6809727849340587986.png</url>
+      <title>Blood Pressure</title>
+      <link>https://katjakero3.netlify.app/tags/blood-pressure/</link>
+    </image>
+    
+    <item>
+      <title>Associations between arterial health and sexual function in women aged 60-64 years</title>
+      <link>https://katjakero3.netlify.app/peer/virkkunen-associations-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://katjakero3.netlify.app/peer/virkkunen-associations-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

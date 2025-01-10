@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Factors | Katja Kero&#39;s homepage</title>
+    <link>https://katjakero3.netlify.app/tags/time-factors/</link>
+      <atom:link href="https://katjakero3.netlify.app/tags/time-factors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Time Factors</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://katjakero3.netlify.app/media/icon_hu6809727849340587986.png</url>
+      <title>Time Factors</title>
+      <link>https://katjakero3.netlify.app/tags/time-factors/</link>
+    </image>
+    
+    <item>
+      <title>Smoking increases oral HPV persistence among men: 7-year follow-up study</title>
+      <link>https://katjakero3.netlify.app/peer/kero-smoking-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://katjakero3.netlify.app/peer/kero-smoking-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oral mucosa as a reservoir of human papillomavirus: point prevalence, genotype distribution, and incident infections among males in a 7-year prospective study</title>
+      <link>https://katjakero3.netlify.app/peer/kero-oral-2012/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://katjakero3.netlify.app/peer/kero-oral-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

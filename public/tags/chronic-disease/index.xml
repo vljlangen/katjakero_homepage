@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chronic Disease | Katja Kero&#39;s homepage</title>
+    <link>https://katjakero3.netlify.app/tags/chronic-disease/</link>
+      <atom:link href="https://katjakero3.netlify.app/tags/chronic-disease/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chronic Disease</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://katjakero3.netlify.app/media/icon_hu6809727849340587986.png</url>
+      <title>Chronic Disease</title>
+      <link>https://katjakero3.netlify.app/tags/chronic-disease/</link>
+    </image>
+    
+    <item>
+      <title>Patients with chronic diseases: Is sexual health brought up by general practitioners during appointments? A web-based study</title>
+      <link>https://katjakero3.netlify.app/peer/manninen-patients-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://katjakero3.netlify.app/peer/manninen-patients-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
