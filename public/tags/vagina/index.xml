@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vagina | Katja Kero&#39;s homepage</title>
+    <link>https://example.com/tags/vagina/</link>
+      <atom:link href="https://example.com/tags/vagina/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vagina</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6809727849340587986.png</url>
+      <title>Vagina</title>
+      <link>https://example.com/tags/vagina/</link>
+    </image>
+    
+    <item>
+      <title>Optimal sampling and analysis methods for clinical diagnostics of vaginal microbiome</title>
+      <link>https://example.com/peer/kero-optimal-2023/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/peer/kero-optimal-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association of asymptomatic bacterial vaginosis with persistence of female genital human papillomavirus infection</title>
+      <link>https://example.com/peer/kero-association-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/peer/kero-association-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

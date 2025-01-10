@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Men | Katja Kero&#39;s homepage</title>
+    <link>https://example.com/tags/men/</link>
+      <atom:link href="https://example.com/tags/men/index.xml" rel="self" type="application/rss+xml" />
+    <description>Men</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6809727849340587986.png</url>
+      <title>Men</title>
+      <link>https://example.com/tags/men/</link>
+    </image>
+    
+    <item>
+      <title>HPV infection and bacterial microbiota in the semen from healthy men</title>
+      <link>https://example.com/peer/tuominen-hpv-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/peer/tuominen-hpv-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

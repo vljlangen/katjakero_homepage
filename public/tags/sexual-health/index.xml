@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sexual Health | Katja Kero&#39;s homepage</title>
+    <link>https://example.com/tags/sexual-health/</link>
+      <atom:link href="https://example.com/tags/sexual-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sexual Health</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6809727849340587986.png</url>
+      <title>Sexual Health</title>
+      <link>https://example.com/tags/sexual-health/</link>
+    </image>
+    
+    <item>
+      <title>Associations between arterial health and sexual function in women aged 60-64 years</title>
+      <link>https://example.com/peer/virkkunen-associations-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/peer/virkkunen-associations-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical and midwifery students need increased sexual medicine education to overcome barriers hindering bringing up sexual health issues - A national study of final-year medical and midwifery students in Finland</title>
+      <link>https://example.com/peer/manninen-medical-2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/peer/manninen-medical-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patients with chronic diseases: Is sexual health brought up by general practitioners during appointments? A web-based study</title>
+      <link>https://example.com/peer/manninen-patients-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/peer/manninen-patients-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General practitioners&#39; self-reported competence in the management of sexual health issues - a web-based questionnaire study from Finland</title>
+      <link>https://example.com/peer/manninen-general-2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/peer/manninen-general-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

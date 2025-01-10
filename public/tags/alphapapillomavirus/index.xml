@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alphapapillomavirus | Katja Kero&#39;s homepage</title>
+    <link>https://example.com/tags/alphapapillomavirus/</link>
+      <atom:link href="https://example.com/tags/alphapapillomavirus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alphapapillomavirus</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6809727849340587986.png</url>
+      <title>Alphapapillomavirus</title>
+      <link>https://example.com/tags/alphapapillomavirus/</link>
+    </image>
+    
+    <item>
+      <title>Oral human papillomavirus infection in men might contribute to HPV serology</title>
+      <link>https://example.com/peer/syrjanen-oral-2015/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/peer/syrjanen-oral-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

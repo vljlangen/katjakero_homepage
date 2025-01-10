@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Incidence | Katja Kero&#39;s homepage</title>
+    <link>https://example.com/tags/incidence/</link>
+      <atom:link href="https://example.com/tags/incidence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Incidence</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu6809727849340587986.png</url>
+      <title>Incidence</title>
+      <link>https://example.com/tags/incidence/</link>
+    </image>
+    
+    <item>
+      <title>Oral mucosa as a reservoir of human papillomavirus: point prevalence, genotype distribution, and incident infections among males in a 7-year prospective study</title>
+      <link>https://example.com/peer/kero-oral-2012/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/peer/kero-oral-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
