@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Katja Kero&#39;s homepage</title>
-    <link>https://katjakero3.netlify.app/tags/academic/</link>
-      <atom:link href="https://katjakero3.netlify.app/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://katja-kero.netlify.app/tags/academic/</link>
+      <atom:link href="https://katja-kero.netlify.app/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://katjakero3.netlify.app/media/icon_hu6809727849340587986.png</url>
+      <url>https://katja-kero.netlify.app/media/icon_hu6809727849340587986.png</url>
       <title>Academic</title>
-      <link>https://katjakero3.netlify.app/tags/academic/</link>
+      <link>https://katja-kero.netlify.app/tags/academic/</link>
     </image>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://katjakero3.netlify.app/post/get-started/</link>
+      <link>https://katja-kero.netlify.app/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://katjakero3.netlify.app/post/get-started/</guid>
+      <guid>https://katja-kero.netlify.app/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 

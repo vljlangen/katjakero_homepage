@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genome | Katja Kero&#39;s homepage</title>
-    <link>https://katjakero3.netlify.app/tags/genome/</link>
-      <atom:link href="https://katjakero3.netlify.app/tags/genome/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://katja-kero.netlify.app/tags/genome/</link>
+      <atom:link href="https://katja-kero.netlify.app/tags/genome/index.xml" rel="self" type="application/rss+xml" />
     <description>Genome</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://katjakero3.netlify.app/media/icon_hu6809727849340587986.png</url>
+      <url>https://katja-kero.netlify.app/media/icon_hu6809727849340587986.png</url>
       <title>Genome</title>
-      <link>https://katjakero3.netlify.app/tags/genome/</link>
+      <link>https://katja-kero.netlify.app/tags/genome/</link>
     </image>
     
     <item>
       <title>Herpes simplex and human papilloma virus coinfections in oral mucosa of men-A 6-year follow-up study</title>
-      <link>https://katjakero3.netlify.app/peer/maki-herpes-2018/</link>
+      <link>https://katja-kero.netlify.app/peer/maki-herpes-2018/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://katjakero3.netlify.app/peer/maki-herpes-2018/</guid>
+      <guid>https://katja-kero.netlify.app/peer/maki-herpes-2018/</guid>
       <description></description>
     </item>
     

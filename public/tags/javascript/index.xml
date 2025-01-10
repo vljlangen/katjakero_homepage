@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JavaScript | Katja Kero&#39;s homepage</title>
-    <link>https://katjakero3.netlify.app/tags/javascript/</link>
-      <atom:link href="https://katjakero3.netlify.app/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://katja-kero.netlify.app/tags/javascript/</link>
+      <atom:link href="https://katja-kero.netlify.app/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <description>JavaScript</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://katjakero3.netlify.app/media/icon_hu6809727849340587986.png</url>
+      <url>https://katja-kero.netlify.app/media/icon_hu6809727849340587986.png</url>
       <title>JavaScript</title>
-      <link>https://katjakero3.netlify.app/tags/javascript/</link>
+      <link>https://katja-kero.netlify.app/tags/javascript/</link>
     </image>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>https://katjakero3.netlify.app/teaching/js/</link>
+      <link>https://katja-kero.netlify.app/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://katjakero3.netlify.app/teaching/js/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://katjakero3.netlify.app/teaching/js/featured.jpg&#34;
+      <guid>https://katja-kero.netlify.app/teaching/js/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://katja-kero.netlify.app/teaching/js/featured.jpg&#34;
     alt=&#34;A caption&#34;&gt;&lt;figcaption&gt;
       &lt;p&gt;A caption&lt;/p&gt;
     &lt;/figcaption&gt;
@@ -66,7 +66,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://katjakero3.netlify.app/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://katja-kero.netlify.app/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
