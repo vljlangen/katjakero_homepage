@@ -1,453 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Katja Kero&#39;s homepage</title>
+    <title>Hugo Academic CV Theme</title>
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Katja Kero&#39;s homepage</description>
+    <description>Hugo Academic CV Theme</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu6809727849340587986.png</url>
-      <title>Katja Kero&#39;s homepage</title>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Hugo Academic CV Theme</title>
       <link>https://example.com/</link>
     </image>
     
     <item>
-      <title>Kipu on parisuhteen kolmas pyörä (Pain as the Third Wheel in a Relationship) (in Finnish)</title>
-      <link>https://example.com/event/pain/</link>
-      <pubDate>Wed, 22 Jan 2025 13:00:00 +0000</pubDate>
-      <guid>https://example.com/event/pain/</guid>
-      <description>&lt;p&gt;Krooninen kipu vaikuttaa merkittävästi seksuaaliterveyteen. Kurssilla käsitellään muun muassa kivun vaikutuksia parisuhteeseen ja seksuaalisuuteen. Osallistujat oppivat puheeksi ottamisen keinoja, kuten motivoivan haastattelun käyttöä, ja saavat käytännön tietoa diagnostiikasta ja hoidosta. Draaman avulla kokemusasiantuntija Pasi Virtanen tuo esiin potilaan kohtaamisen merkityksen.&lt;/p&gt;
-&lt;p&gt;Kurssi on suunnattu erityisesti vastaanottotyötä tekeville lääkäreille. &lt;strong&gt;Tervetuloa mukaan!&lt;/strong&gt;&lt;/p&gt;
+      <title>Example Talk</title>
+      <link>https://example.com/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://example.com/event/example/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Activities in the Academic Community</title>
-      <link>https://example.com/research/activities/</link>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/research/activities/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://example.com/research/activities/featured.jpg&#34;
-    alt=&#34;Image credit:&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Image credit:
-          &lt;a href=&#34;https://unsplash.com/photos/white-and-black-concrete-building-nBoC3IWbKZM&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;mannerheim-league-for-child-welfare-littoinen&#34;&gt;Mannerheim League for Child Welfare, Littoinen&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Member of the Board 2008–2012&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;the-finnish-gynecological-association&#34;&gt;The Finnish Gynecological Association&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Secretary 2016–2017&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;the-committee-for-the-promotion-of-sexual-and-reproductive-health-in-finland-proper&#34;&gt;The Committee for the Promotion of Sexual and Reproductive Health in Finland Proper&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Chairman 2020–2021&lt;/li&gt;
-&lt;li&gt;Vice-Chairman 2016–2019&lt;/li&gt;
-&lt;li&gt;Member of the Board 2015–2019&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;the-sexual-health-group-of-the-finnish-gynecological-association&#34;&gt;The Sexual Health Group of the Finnish Gynecological Association&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Chairman 2018–&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;the-finnish-gynecological-associations-sexual-health-group&#34;&gt;The Finnish Gynecological Association’s Sexual Health Group&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Member of the Board 2010–&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;the-finnish-society-of-sexual-medicine&#34;&gt;The Finnish Society of Sexual Medicine&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Member of the Board 2018–2022&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;the-nordic-society-of-sexual-medicine&#34;&gt;The Nordic Society of Sexual Medicine&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Member of the Board 2022–&lt;/li&gt;
-&lt;li&gt;Vice President 2023–&lt;/li&gt;
-&lt;li&gt;President 2024–&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;the-hpv-coalition&#34;&gt;The HPV Coalition&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Member&lt;br&gt;
-The coalition is founded by experts and a patient organization, whose goal is to promote Finland’s commitment to the EU’s cancer control plan’s goal of eradicating cancers caused by HPV.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;the-korento-ry&#34;&gt;The Korento ry&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Expert member / “godmother”&lt;br&gt;
-Korento ry is a national patient organization that represents up to 200,000 Finns living with endometriosis, adenomyosis, PCOS, and vulvodynia.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;the-gynecological-cancer-patients-association-of-finland&#34;&gt;The Gynecological Cancer Patients Association of Finland&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Expert member&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Book Chapters</title>
-      <link>https://example.com/other-works/book-chapters/</link>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/other-works/book-chapters/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://example.com/other-works/book-chapters/featured.jpg&#34;
-    alt=&#34;Image credit:&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Image credit:
-          &lt;a href=&#34;https://www.pexels.com/photo/a-table-with-a-chair-and-a-book-under-a-tree-27390908/&#34;&gt;Pexels&lt;/a&gt;&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duodecim.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Heinonen P, Kero K. Krooninen kipu ja seksuaalisuus&lt;/a&gt; to-be-published in &lt;em&gt;Seksuaalilääketiede&lt;/em&gt;, Duodecim 2nd Edition 2024&lt;br&gt;
-(Chronic Pain and Sexuality)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duodecim.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Akren O, Heinonen P, Kero K, Sandell M. Rintasyöpä ja seksuaalisuus&lt;/a&gt; to-be-published in &lt;em&gt;Seksuaalilääketiede&lt;/em&gt;, Duodecim 2nd Edition 2024&lt;br&gt;
-(Breast Cancer and Sexuality)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.punamusta.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hietamäki J, Siltala H, Keski-Petäjä M, Attila H, Hisasue T, Pietiläinen M, Kero K. Seksuaaliväkivalta parisuhteessa&lt;/a&gt; in Book: Bildjuschkin K. Toim. &lt;em&gt;Seksuaaliväkivaltatyön perusteet&lt;/em&gt;, Punamusta oy 2023.&lt;br&gt;
-(Sexual Violence in Intimate Relationships)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duodecim.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K, Brusila P. Sexual and domestic violence&lt;/a&gt; in Book: NFOG Textbook&lt;br&gt;
-(Sexual and Domestic Violence)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duodecim.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K, Merta A. Seksuaalilääketieteen palvelujen järjestäminen Suomessa&lt;/a&gt; in Book: Brusila P, Kero K, Piha J, Räsänen M. Toim. &lt;em&gt;Seksuaalilääketiede&lt;/em&gt;, Duodecim 2020.&lt;br&gt;
-(Organization of Sexual Medicine Services in Finland)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duodecim.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K, Kero M. Elintapojen vaikutus seksuaalisuuteen&lt;/a&gt; in Book: Brusila P, Kero K, Piha J, Räsänen M. Toim. &lt;em&gt;Seksuaalilääketiede&lt;/em&gt;, Duodecim 2020.&lt;br&gt;
-(The Impact of Lifestyle on Sexuality)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duodecim.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K, Hieta N. Seksuaalisuuteen vaikuttavat emättimen oireet&lt;/a&gt; in Book: Brusila P, Kero K, Piha J, Räsänen M. Toim. &lt;em&gt;Seksuaalilääketiede&lt;/em&gt;, Duodecim 2020.&lt;br&gt;
-(Vaginal Symptoms Affecting Sexuality)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duodecim.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K, Hieta N. Sukuelinten iho- ja limakalvosairaudet sekä niiden hoito&lt;/a&gt; in Book: Brusila P, Kero K, Piha J, Räsänen M. Toim. &lt;em&gt;Seksuaalilääketiede&lt;/em&gt;, Duodecim 2020.&lt;br&gt;
-(Skin and Mucosal Disorders of the Genital Organs and Their Treatment)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duodecim.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K, Oksjoki S. Kilpirauhassairauksien vaikutus seksuaaliterveyteen&lt;/a&gt; in Book: Brusila P, Kero K, Piha J, Räsänen M. Toim. &lt;em&gt;Seksuaalilääketiede&lt;/em&gt;, Duodecim 2020.&lt;br&gt;
-(Impact of Thyroid Diseases on Sexual Health)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duodecim.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K, Piha J. Hyperprolaktinemia&lt;/a&gt; in Book: Brusila P, Kero K, Piha J, Räsänen M. Toim. &lt;em&gt;Seksuaalilääketiede&lt;/em&gt;, Duodecim 2020.&lt;br&gt;
-(Hyperprolactinemia)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duodecim.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K. Naisen yhdyntäkivut: vulvodynia, vaginismi, krooniset lantionpohjan kivut&lt;/a&gt; in Book: Brusila P, Kero K, Piha J, Räsänen M. Toim. &lt;em&gt;Seksuaalilääketiede&lt;/em&gt;, Duodecim 2020.&lt;br&gt;
-(Painful Intercourse in Women: Vulvodynia, Vaginismus, Chronic Pelvic Floor Pain)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duodecim.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K, Räsänen M. Naisen seksuaalitoimintojen anatomia ja fysiologia&lt;/a&gt; in Book: Brusila P, Kero K, Piha J, Räsänen M. Toim. &lt;em&gt;Seksuaalilääketiede&lt;/em&gt;, Duodecim 2020.&lt;br&gt;
-(Anatomy and Physiology of Female Sexual Functions)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duodecim.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brusila P, Kero K. Seksuaalilääketieteen opetus&lt;/a&gt; in Book: Brusila P, Kero K, Piha J, Räsänen M. Toim. &lt;em&gt;Seksuaalilääketiede&lt;/em&gt;, Duodecim 2020.&lt;br&gt;
-(Teaching in Sexual Medicine)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duodecim.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K, Väisälä L. Seksologiaa&lt;/a&gt; in Book: Tapanainen J, Heikinheimo O, Mäkikallio K, toim. &lt;em&gt;Naistentaudit ja synnytykset&lt;/em&gt;, s. 218-228. Duodecim, 2019.&lt;br&gt;
-(Sexology)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.duodecim.fi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K, Das P. Transsukupuolisuus&lt;/a&gt; in Book: Tapanainen J, Heikinheimo O, Mäkikallio K, toim. &lt;em&gt;Naistentaudit ja synnytykset&lt;/em&gt;, s. 229-232. Duodecim, 2019.&lt;br&gt;
-(Transgenderism)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contributions in other media (in Finnish)</title>
-      <link>https://example.com/other-works/contributions-in-other-media/</link>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/other-works/contributions-in-other-media/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://example.com/other-works/contributions-in-other-media/featured.jpg&#34;
-    alt=&#34;Image credit:&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Image credit:
-          &lt;a href=&#34;https://www.pexels.com/photo/white-blank-notebook-733857/&#34;&gt;Pexels&lt;/a&gt;&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hs.fi/mielipide/art-2000010749121.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K. Jokaisella tytöllä on oikeus oppia, unelmoida ja elää turvallisesti&lt;/a&gt; - Helsingin Sanomat, 11.10.2024&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ts.fi/puheenvuorot/6451686&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K. Kansalaisten voima tyttöjen oikeuksien edistämisessä&lt;/a&gt; - Turun Sanomat, 11.10.2024&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ts.fi/puheenvuorot/6371114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K, Paavonen J. Yksikään lapsi ja nuori ei saa jäädä ilman HPV-rokotetta&lt;/a&gt; - Turun Sanomat, 02.07.2024&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hs.fi/mielipide/art-2000010505769.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K, Paavonen J. Yksikään lapsi tai nuori ei saa jäädä ilman HPV-rokotetta&lt;/a&gt; - Helsingin Sanomat, 01.07.2024&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sjogrenliitto.fi/sjogrenlehti/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K. Gynekologin vastaanotolla. Limakalvojen hoito ja oman kehon arvostus keskiössä&lt;/a&gt; - Sjögrenlehti, 2024&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://julkaisut.valtioneuvosto.fi/handle/10024/165245&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rautava J, Kero K, Salovaara T, Hiltunen-Back E, Mäkitie A, Paavonen J &amp;amp; HPV-koalitio. HPV-rokote suojaa lapsia ja nuoria syöviltä. Teoksessa: Terveys ja lapsen oikeudet&lt;/a&gt; - Lapsiasiavaltuutetun toimiston julkaisuja 2023:7&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://otava.fi/kirjat/vulvapositiivisuus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K. Gynekologiset sairaudet. Vieraskynä kirjassa &lt;em&gt;Vulvapositiivisuus&lt;/em&gt;&lt;/a&gt; - Kajo Välikangas, 2023&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.hs.fi/mielipide/art-2000009246326.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leminen J, Kero K. Lähisuhdeväkivalta on piilorikollisuutta&lt;/a&gt; - Helsingin Sanomat, 07.12.2022&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ts.fi/puheenvuorot/5811690&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K. HPV:n aiheuttamat syövät voidaan hävittää rokottamalla – Suomen sitouduttava EU:n ja WHO:n tavoitteisiin&lt;/a&gt; - Turun Sanomat, 05.11.2022&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ts.fi/puheenvuorot/5009036&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K. Koronan varjossa toisenlainen pandemia&lt;/a&gt; - Turun Sanomat, 18.08.2020&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.potilaanlaakarilehti.fi/artikkelit/joka-viides-on-kokenut-vakivaltaa-parisuhteessa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Potilaan lääkärilehti. Joka viides on kokenut väkivaltaa parisuhteessa&lt;/a&gt; - Potilaan Lääkärilehti, 04.09.2019&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Finnish publications (suomenkieliset julkaisut)</title>
-      <link>https://example.com/other-works/finnish-publications/</link>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/other-works/finnish-publications/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://example.com/other-works/finnish-publications/featured.jpg&#34;
-    alt=&#34;Image credit:&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Image credit:
-          &lt;a href=&#34;https://www.pexels.com/photo/white-boat-on-water-near-houses-3594963/&#34;&gt;Pexels&lt;/a&gt;&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Kultti P, Manninen S-M, Kero K.&lt;/strong&gt; Huomioidaanko seksuaaliterveys erikoissairaanhoidossa? – Tilanne Turun yliopistollisen keskussairaanhoitokunnan toimialueilla vuonna 2022. &lt;em&gt;Lääkärilehti&lt;/em&gt; 3/2024. Accepted.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Vihlman E, Kero K, Manninen S-M.&lt;/strong&gt; Saavatko kätilöopiskelijat riittävästi seksuaali- ja lisääntymisterveyden opetusta – kyselytutkimus valmistuville kätilöopiskelijoille Suomessa. &lt;em&gt;Kätilölehti&lt;/em&gt; 2024.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Rantala S, Ratia R, Kero K, Savontaus E, Hieta N.&lt;/strong&gt; Trikomonaksen hoito metronidatsolilla alkoholinkäytön aikana. Tapausselostus. &lt;em&gt;Lääketieteellinen Aikakauskirja Duodecim&lt;/em&gt; 2024;140(20):1727.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kero K, Arikka H, Kero M, Rantala M, Langén V.&lt;/strong&gt; Ennakoivasti aloitettu ryhmärakentaminen -kestävää ja kustannustehokasta vanhuuden turvaa. &lt;em&gt;Sosiaalilääketieteellinen aikakauslehti&lt;/em&gt; 2024: 61: 623–628.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kero K, Paavonen J.&lt;/strong&gt; Mikä HPV-rokotuksessa pelottaa – kuinka saavutetaan parempi rokotuskattavuus? &lt;em&gt;Sosiaalilääketieteellinen aikakauslehti&lt;/em&gt; vol 61 nro 1 (2024).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kero K.&lt;/strong&gt; Limakalvojen hoito ja oman kehon arvostus keskiössä. &lt;em&gt;Sjögrenliiton lehti&lt;/em&gt;. 2024.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kero K.&lt;/strong&gt; Seksuaalisuuden puheeksi ottaminen työterveyslääkärin vastaanotolla. &lt;em&gt;Työterveyslehti&lt;/em&gt; 2023; 41(3):51–52.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kero K.&lt;/strong&gt; Suomen on sitouduttava kondyloomien hävittämiseen väestöstämme. Pääkirjoitus. &lt;em&gt;Suomen Lääkärilehti&lt;/em&gt; 1.6.2023.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kero K.&lt;/strong&gt; Raskauden ehkäisy vaihdevuosien lähestyessä. Kutsuttu artikkeli &lt;em&gt;Suomen Lääkärilehti&lt;/em&gt; julkaistaan 9.6.2023.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kero K.&lt;/strong&gt; Seksuaalinen kipu. &lt;em&gt;Yleislääkärin käsikirja&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kero K.&lt;/strong&gt; Lähisuhdeväkivalta. &lt;em&gt;Yleislääkärin käsikirja&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kero K.&lt;/strong&gt; Naisen seksuaalihäiriöt. &lt;em&gt;Yleislääkärin käsikirja&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Heinonen P, Kero K.&lt;/strong&gt; Ikävä iholla – sairauden vaikutus seksuaalisuuteen. &lt;em&gt;Haava-lehti&lt;/em&gt;. (invited manuscript)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kero K.&lt;/strong&gt; Iho kertoo tarinaansa – ota seksuaalisuus puheeksi. Pääkirjoitus. &lt;em&gt;Haava-lehti&lt;/em&gt;. (invited manuscript)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kevo L, Manninen SM, Kero K, Polo-Kantola P.&lt;/strong&gt; Lääketieteen opiskelijat tarvitsevat seksuaalilääketieteen opetusta – kyselytutkimustuloksia Suomen lääketieteellisistä tiedekunnista. &lt;em&gt;SLL&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Väisälä L, Räsänen M, Kero K.&lt;/strong&gt; Naisen seksuaalihäiriöt. &lt;em&gt;Duodecim&lt;/em&gt; 2021;137(20):2204-14.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kero K, Piha J, Räsänen M, Brusila P.&lt;/strong&gt; Seksuaalilääketieteen opetusta kannattaa lisätä lääkärikoulutukseen. Pääkirjoitus Teemanumero Krooninen sairaus ja seksuaalisuus. &lt;em&gt;Duodecim&lt;/em&gt; 2021;137(20):2165-7.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Heinonen P, Kero K.&lt;/strong&gt; Vertaistuki ja asiantuntija-apu vulvodyniapotilaiden hoidossa. &lt;em&gt;Lääketieteellinen Aikakauskirja Duodecim&lt;/em&gt; 2020;136(2):147-54.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tiitinen A, Kero K.&lt;/strong&gt; Paikallisestrogeenit ja rintasyöpä. &lt;em&gt;Lääkärilehti&lt;/em&gt; 2020;3:117-121. Katsausartikkeli.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kero K, Nyqvist L, Rautio J, Puuronen A.&lt;/strong&gt; Lähisuhdeväkivallan seulontaa tulee vahvistaa. &lt;em&gt;Lääkärilehti&lt;/em&gt; 2019;74:1881–85.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hieta N, Kero K.&lt;/strong&gt; Poikkeava valkovuoto. &lt;em&gt;Lääkärilehti&lt;/em&gt; 2018;73(49):2945-2948.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kero K, Rautava J.&lt;/strong&gt; HPV-rokotus kannattaa antaa pojillekin. &lt;em&gt;Suomen Lääkärilehti&lt;/em&gt; 2017;72(42):2281 - 2282.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kero K, Väisälä L, Brusila P.&lt;/strong&gt; Pilleristä potkua petipuuhiin? – Voiko naisen seksuaalista haluttomuutta hoitaa lääkkeellä? Invited Editorial. &lt;em&gt;Duodecim&lt;/em&gt; 2016;132:1307–9.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hieta N, Kero K.&lt;/strong&gt; Sukupuolielinten ihottumat. &lt;em&gt;Suomen Lääkärilehti&lt;/em&gt; 2016;71(3):131-137.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Other contributions</title>
-      <link>https://example.com/other-works/other-contributions/</link>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/other-works/other-contributions/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://example.com/other-works/other-contributions/featured.jpg&#34;
-    alt=&#34;Image credit:&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Image credit:
-          &lt;a href=&#34;https://www.pexels.com/photo/crop-female-freelancer-using-laptop-at-table-at-home-4050312/&#34;&gt;Pexels&lt;/a&gt;&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Other Contributions&lt;/strong&gt;:&lt;br&gt;
-Numerous scientific and other presentations internationally and nationally&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Poster presentations: 9&lt;/li&gt;
-&lt;li&gt;Total sum of citations: 201 (Web of Science h-index: 8)&lt;/li&gt;
-&lt;li&gt;Grants: 16&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Research Grants</title>
-      <link>https://example.com/research/grants/</link>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/research/grants/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://example.com/research/grants/featured.jpg&#34;
-    alt=&#34;Image credit:&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Image credit:
-          &lt;a href=&#34;https://www.pexels.com/photo/marketing-businessman-exit-relationship-7414284/&#34;&gt;Pexels&lt;/a&gt;&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;individual-grants&#34;&gt;Individual Grants&lt;/h2&gt;
-&lt;h3 id=&#34;the-cancer-foundations-of-south-western-finland&#34;&gt;The Cancer Foundations of South-Western Finland&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;4,000 €&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;the-cancer-foundations-of-finland&#34;&gt;The Cancer Foundations of Finland&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;3,400 €&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;the-finnish-gynaecological-society&#34;&gt;The Finnish Gynaecological Society&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;4,000 €&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;the-finnish-medical-foundation&#34;&gt;The Finnish Medical Foundation&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2,500 €&lt;/li&gt;
-&lt;li&gt;4,000 €&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;the-finnish-society-against-sexually-transmitted-diseases&#34;&gt;The Finnish Society Against Sexually Transmitted Diseases&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;3,000 €&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;national-graduate-school-of-clinical-investigation&#34;&gt;National Graduate School of Clinical Investigation&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;3,500 € (2 months)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;the-government-special-foundation-evo-to-turku-university-hospital&#34;&gt;The Government Special Foundation (EVO) to Turku University Hospital&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;14,000 € (4 months)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;orion-pharmos-research-foundation&#34;&gt;Orion-Pharmos Research Foundation&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;3,000 €&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;project-based-grants&#34;&gt;Project-Based Grants&lt;/h2&gt;
-&lt;h3 id=&#34;implementation-of-education-of-sexual-medicine-in-finnish-medical-schools&#34;&gt;Implementation of Education of Sexual Medicine in Finnish Medical Schools&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;The Finnish Medical Foundation&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;3,000 € for the study of developing education of Sexual Medicine for Medical Schools (2019, research project).&lt;/li&gt;
-&lt;li&gt;3,500 € for the study of developing education of Sexual Medicine for Medical Schools (2021, producing lectures and other materials for the Medical Schools of Finland).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;vaginal-and-oral-microbiota-emmi&#34;&gt;Vaginal and Oral Microbiota (&amp;ldquo;EMMI&amp;rdquo;)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;The Cancer Foundations of South-Western Finland&lt;/strong&gt;: 8,500 € (12/2016)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The Government Special Foundation (EVO) to Turku University Hospital&lt;/strong&gt;: 5,000 € (12/2016)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The Finnish Cultural Foundation&lt;/strong&gt;: 24,000 € for DNA analyses (5/2020)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;eradicating-domestic-violence-ehyeksi-hanke&#34;&gt;Eradicating Domestic Violence (EHYEKSI-hanke)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Päivikki and Sakari Sohlberg Foundation&lt;/strong&gt;: 15,000 €&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Supervision of Licentiate Theses</title>
-      <link>https://example.com/research/theses/</link>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/research/theses/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://example.com/research/theses/featured.jpg&#34;
-    alt=&#34;Image credit:&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Image credit:
-          &lt;a href=&#34;https://www.pexels.com/photo/women-wearing-graduation-caps-blowing-confetti-8106655/&#34;&gt;Pexels&lt;/a&gt;&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Pajula Elina&lt;/strong&gt;: Fysioterapian merkitys vulvodynian hoidossa.&lt;br&gt;
-&lt;em&gt;The significance of physiotherapy in the treatment of vulvodynia.&lt;/em&gt; (2012)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Holmi Raija&lt;/strong&gt;: Seksuaalilääketieteen opetus Turun yliopiston lääkärikoulutuksessa vuonna 2012.&lt;br&gt;
-&lt;em&gt;Teaching sexual medicine in medical education at the University of Turku in 2012.&lt;/em&gt; (2012)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Eklund Tero, Salmenhaara Lasse&lt;/strong&gt;: Menopeli - perille vaihdevuosista.&lt;br&gt;
-&lt;em&gt;Menopeli - A journey through menopause.&lt;/em&gt; (2014)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Korhonen Julia&lt;/strong&gt;: Sukuelinalueen lichen planus.&lt;br&gt;
-&lt;em&gt;Lichen planus in the genital area.&lt;/em&gt; (2015)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Särkilä Hanna&lt;/strong&gt;: Botuliinitoksiinin käyttö vulvodynian ja vaginismin hoidossa.&lt;br&gt;
-&lt;em&gt;The use of botulinum toxin in the treatment of vulvodynia and vaginismus.&lt;/em&gt; (2016)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Torala Eini&lt;/strong&gt;: Ovatko yksityisen lääkäriaseman tekemät lähetteet turhia? – Adenova -lääkärikeskuksen lähetekäytäntö 2012–2013.&lt;br&gt;
-&lt;em&gt;Are referrals made by private medical clinics unnecessary? – Referral practices at Adenova Medical Center 2012–2013.&lt;/em&gt; (2017)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Leminen Johanna&lt;/strong&gt;: Turun yliopistollisen keskussairaalan naistenklinikan lääkärien ja hoitajien suhtautuminen lähisuhdeväkivallan seulontatyöhön.&lt;br&gt;
-&lt;em&gt;Attitudes of physicians and nurses at the Women’s Clinic of Turku University Hospital toward screening for intimate partner violence.&lt;/em&gt; (2020)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Grönlund Jarna&lt;/strong&gt;: Seksuaalilääketieteen opetus Suomessa. Kansallinen kysely gynekologeille.&lt;br&gt;
-&lt;em&gt;Teaching sexual medicine in Finland – A national survey of gynecologists.&lt;/em&gt; (2020)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Kevo Lotta&lt;/strong&gt;: Seksuaalilääketieteen opetus ja osaaminen Suomessa: kysely viimeisen vuoden lääketieteen opiskelijoille.&lt;br&gt;
-&lt;em&gt;Teaching and competence in sexual medicine in Finland: A survey for final-year medical students.&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Aaltonen Henrika&lt;/strong&gt;: Emättimen normaalin mikrobiston koostumus, siihen vaikuttavat tekijät ja mikrobiston muutosten rooli gynekologisten sairauksien taustalla.&lt;br&gt;
-&lt;em&gt;The composition of the normal vaginal microbiota, influencing factors, and the role of microbial changes in gynecological diseases.&lt;/em&gt; (2020)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Vihlman Eerika&lt;/strong&gt;: Seksuaali- ja lisääntymisterveyden opetus ja osaaminen Suomessa – kysely valmistuville kätilöopiskelijoille.&lt;br&gt;
-&lt;em&gt;Teaching and competence in sexual and reproductive health in Finland – A survey for graduating midwifery students.&lt;/em&gt; (2023)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Kultti Pihla&lt;/strong&gt;: Turun yliopistollisen keskussairaalan toimialueiden tarjoamien seksuaalineuvontapalveluiden tilanne vuonna 2022.&lt;br&gt;
-&lt;em&gt;The status of sexual counseling services offered by departments at Turku University Hospital in 2022.&lt;/em&gt; (2023)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Supervision of PhD Theses</title>
-      <link>https://example.com/research/phd/</link>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/research/phd/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://example.com/research/phd/featured.jpg&#34;
-    alt=&#34;Image credit:&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Image credit:
-          &lt;a href=&#34;https://www.pexels.com/photo/woman-throwing-confetti-1139317/&#34;&gt;Pexels&lt;/a&gt;&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;completed-theses&#34;&gt;Completed Theses&lt;/h2&gt;
-&lt;h3 id=&#34;ttm-sanna-mari-manninen&#34;&gt;TtM Sanna-Mari Manninen&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;&amp;ldquo;Sexual Education in Finland: A National Survey among Medical Students and General Practitioners&amp;rdquo;&lt;/em&gt;&lt;br&gt;
-Completed her PhD on 8.5.2024 at the University of Turku.&lt;/p&gt;
-&lt;h2 id=&#34;current-supervisions&#34;&gt;Current Supervisions&lt;/h2&gt;
-&lt;h3 id=&#34;ll-anna-aromaas-dissertation&#34;&gt;LL Anna Aromaa’s Dissertation&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;&amp;ldquo;Do Gynecologists Talk about Sexual Health? Attitudes, Perceived Barriers, Practice Patterns and Education of Sexual Medicine in Finland: A National Survey among Gynecologists and Obstetricians&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The first partial publication published.&lt;/li&gt;
-&lt;li&gt;The second publication submitted to an international peer-reviewed journal.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;lk-viivi-virkkunens-doctoral-thesis&#34;&gt;LK Viivi Virkkunen’s Doctoral Thesis&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;&amp;ldquo;The connection of vascular health, physical activity and fitness to women’s sexual function in women of retirement age and the effect of retirement on women’s sexual function&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;First partial publication published in a peer-reviewed journal.&lt;/li&gt;
-&lt;li&gt;The second publication submitted.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Theses</title>
-      <link>https://example.com/other-works/own-theses/</link>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/other-works/own-theses/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://example.com/other-works/own-theses/featured.jpg&#34;
-    alt=&#34;Image credit:&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Image credit:
-          &lt;a href=&#34;https://www.pexels.com/photo/remington-standard-typewriter-in-greyscale-photography-163116/&#34;&gt;Pexels&lt;/a&gt;&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://urn.fi/URN:ISBN:978-951-29-5721-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K. Doctoral thesis: Outcome of human papillomavirus infection among men in the Finnish Family HPV Study&lt;/a&gt; - University of Turku, 2014&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blogs.helsinki.fi/psykoterapeuttikoulutuksen-opinnayteikkuna/2021/06/29/mindfulness-pohjainen-kognitiivinen-terapia-vaginismipotilaiden-hoidossa-ryhmaterapiamenetelma-tyksin-naistenklinikan-vaginismipotilaille/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kero K. Kognitiivis-integratiivisen psykoterapeuttikoulutuksen lopputyö: Mindfulness-pohjainen kognitiivinen terapia vaginismipotilaiden hoidossa – ryhmäterapiainterventio Tyksin Naistenklinikan vaginismipotilaille. &lt;/a&gt; - University of Helsinki, 2021&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Work as an Editor</title>
-      <link>https://example.com/other-works/work-as-an-editor/</link>
-      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/other-works/work-as-an-editor/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://example.com/other-works/work-as-an-editor/featured.jpg&#34;
-    alt=&#34;Image credit:&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Image credit:
-          &lt;a href=&#34;https://www.pexels.com/photo/person-writing-on-a-notebook-beside-macbook-1766604/&#34;&gt;Pexels&lt;/a&gt;&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Ambitious work as one of the four editors&lt;/strong&gt; of the first Finnish-language book on Sexual Medicine (761 pages, 42 authors) published by Duodecim Publishing Company Ltd in 2020. The first edition is almost sold out, and the second edition is currently being worked on. In addition to editing, I have written 9 chapters in the book. Editing the book included reviewing chapters and helping other authors write their texts.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Second Edition to be published in 2024&lt;/strong&gt; with 11 chapters written by KK. &lt;a href=&#34;https://www.duodecim.fi/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Duodecim Publishing&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Editor of the special theme number &amp;ldquo;Impact of diseases on sexual health&amp;rdquo;&lt;/strong&gt; of the Academic Journal &lt;em&gt;Duodecim&lt;/em&gt; with Professor Päivi Polo. I also wrote one article and an Editorial for this issue. &lt;a href=&#34;https://www.duodecim.fi/2021/10/20/duodecim-lehti-nro-20-on-ilmestynyt-teemana-krooninen-sairaus-ja-seksuaalisuus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Read the issue&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Maturitas Special Issue on Sexual Medicine&lt;/strong&gt;&lt;br&gt;
-Co-Editor&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Associations between arterial health and sexual function in women aged 60-64 years</title>
-      <link>https://example.com/peer/virkkunen-associations-2024/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/virkkunen-associations-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://example.com/bakresearch/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/bakresearch/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -455,14 +38,6 @@ Co-Editor&lt;/p&gt;
       <link>https://example.com/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The knowledge of and educational interest in sexual medicine among Finnish medical and midwifery students: A web-based study</title>
-      <link>https://example.com/peer/manninen-knowledge-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/manninen-knowledge-2024/</guid>
       <description></description>
     </item>
     
@@ -703,7 +278,7 @@ Co-Editor&lt;/p&gt;
 
 
 
-&lt;div id=&#34;chart-859673241&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-426378591&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -721,7 +296,7 @@ Co-Editor&lt;/p&gt;
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-859673241&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-426378591&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1022,13 +597,7 @@ data.head()
       <link>https://example.com/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/teaching/js/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;https://example.com/teaching/js/featured.jpg&#34;
-    alt=&#34;A caption&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;A caption&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
@@ -1080,7 +649,7 @@ data.head()
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
   &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
   &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
     You found me 🎉
@@ -1270,14 +839,6 @@ data.head()
     </item>
     
     <item>
-      <title>Papers</title>
-      <link>https://example.com/papers/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/papers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>✅ Manage your projects</title>
       <link>https://example.com/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
@@ -1353,179 +914,61 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Let&#39;s talk about sexuality - A web-based survey of self-reported competence in sexual problems among obstetrician-gynecologists in Finland</title>
-      <link>https://example.com/peer/aromaa-lets-2023/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/aromaa-lets-2023/</guid>
-      <description></description>
+      <title>An example preprint / working paper</title>
+      <link>https://example.com/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://example.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Optimal sampling and analysis methods for clinical diagnostics of vaginal microbiome</title>
-      <link>https://example.com/peer/kero-optimal-2023/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/kero-optimal-2023/</guid>
-      <description></description>
+      <title>An example journal article</title>
+      <link>https://example.com/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Medical and midwifery students need increased sexual medicine education to overcome barriers hindering bringing up sexual health issues - A national study of final-year medical and midwifery students in Finland</title>
-      <link>https://example.com/peer/manninen-medical-2022/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/manninen-medical-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Herpes Simplex Virus Seroprevalence among Pregnant Finnish Women and Their Spouses-A Six-Year Follow-Up Cohort Study</title>
-      <link>https://example.com/peer/laakso-herpes-2022/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/laakso-herpes-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Patients with chronic diseases: Is sexual health brought up by general practitioners during appointments? A web-based study</title>
-      <link>https://example.com/peer/manninen-patients-2022/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/manninen-patients-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interferon-γ and IL-5 associated cell-mediated immune responses to HPV16 E2 and E6 distinguish between persistent oral HPV16 infections and noninfected mucosa</title>
-      <link>https://example.com/peer/paaso-interferon-2021/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/paaso-interferon-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>General practitioners&#39; self-reported competence in the management of sexual health issues - a web-based questionnaire study from Finland</title>
-      <link>https://example.com/peer/manninen-general-2021/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/manninen-general-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HPV infection and bacterial microbiota in the semen from healthy men</title>
-      <link>https://example.com/peer/tuominen-hpv-2021/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/tuominen-hpv-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Usability of two brief questions as a screening tool for domestic violence and effect of #MeToo on prevalence of self-reported violence</title>
-      <link>https://example.com/peer/kero-usability-2020/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/kero-usability-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HPV Infections in Heterosexual Couples: Mechanisms and Covariates of Virus Transmission</title>
-      <link>https://example.com/peer/kero-hpv-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/kero-hpv-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Herpes simplex and human papilloma virus coinfections in oral mucosa of men-A 6-year follow-up study</title>
-      <link>https://example.com/peer/maki-herpes-2018/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/maki-herpes-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Association of asymptomatic bacterial vaginosis with persistence of female genital human papillomavirus infection</title>
-      <link>https://example.com/peer/kero-association-2017/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/kero-association-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Physical state and copy numbers of HPV16 in oral asymptomatic infections that persisted or cleared during the 6-year follow-up</title>
-      <link>https://example.com/peer/lorenzi-physical-2017/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/lorenzi-physical-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genotype-specific concordance of oral and genital human papillomavirus infections among marital couples is low</title>
-      <link>https://example.com/peer/kero-genotype-specific-2016/</link>
-      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/kero-genotype-specific-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oral human papillomavirus infection in men might contribute to HPV serology</title>
-      <link>https://example.com/peer/syrjanen-oral-2015/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/syrjanen-oral-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stable marital relationship protects men from oral and genital HPV infections</title>
-      <link>https://example.com/peer/kero-stable-2014/</link>
-      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/kero-stable-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smoking increases oral HPV persistence among men: 7-year follow-up study</title>
-      <link>https://example.com/peer/kero-smoking-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/kero-smoking-2014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reply to Kathleen D&#39;Hauwers, Gunter De Win and Wiebren Tjalma&#39;s letter to the editor re: Katja Kero, Jaana Rautava, Kari Syrjänen, Seija Grenman, Stina Syrjänen. Oral mucosa as a reservoir of human papillomavirus: point prevalence, genotype distribution, and incident infections among males in a 7-year prospective study. Eur Urol 2012;62:1063-70</title>
-      <link>https://example.com/peer/kero-reply-2013/</link>
+      <title>An example conference paper</title>
+      <link>https://example.com/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/kero-reply-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Oral mucosa as a reservoir of human papillomavirus: point prevalence, genotype distribution, and incident infections among males in a 7-year prospective study</title>
-      <link>https://example.com/peer/kero-oral-2012/</link>
-      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/kero-oral-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reply from Authors re: Guido Barbagli, Salvatore Sansalone, Massimo Lazzeri. Oral Mucosa and Urethroplasty: It’s Time to Change. Eur Urol 2012;62:1071–3: Oral Mucosa as a Reservoir of Human Papillomavirus: Implications for the Use of Oral Mucosal Transplants in Urethroplasty</title>
-      <link>https://example.com/peer/kero-reply-2012/</link>
-      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/kero-reply-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human papillomavirus genotypes in male genitalia and their concordance among pregnant spouses participating in the Finnish Family HPV study</title>
-      <link>https://example.com/peer/kero-human-2011/</link>
-      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/kero-human-2011/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dissociative disorders among psychiatric patients</title>
-      <link>https://example.com/peer/lipsanen-dissociative-2004/</link>
-      <pubDate>Sun, 01 Feb 2004 00:00:00 +0000</pubDate>
-      <guid>https://example.com/peer/lipsanen-dissociative-2004/</guid>
-      <description></description>
+      <guid>https://example.com/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
